@@ -1,3 +1,6 @@
-COUCOU
+PERSONNAL STORAGE OF SAYNT
 
-Mettez ici tous les entraînements maison que vous faites, comme ça ça nous fait un endroit pour centraliser.
+- EXO 42 (SHELL ET C)
+- OUTILS
+- PROJETS PERSOS
+- IDEES DIVERSES
